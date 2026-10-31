@@ -1,0 +1,5 @@
+Incident ID: PAY-001
+Service: Payment Service
+Date: 2026-09-12
+
+The payment service returned Connection Timeout errors during peak traffic. The root cause was a database connection pool limit of 10. The engineering team increased the limit to 30 and monitored the service. After the change, timeout errors decreased significantly.

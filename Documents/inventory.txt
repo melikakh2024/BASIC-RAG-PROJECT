@@ -1,0 +1,5 @@
+Incident ID: INV-002
+Service: Inventory API
+Date: 2026-09-15
+
+The inventory API returned HTTP 503 errors. The root cause was temporary overload in the upstream service. The team implemented retry logic with exponential backoff and added monitoring for repeated failures.

@@ -1,0 +1,5 @@
+Incident ID: DATA-003
+Service: Reporting Pipeline
+Date: 2026-09-18
+
+The daily reporting pipeline was delayed because the upstream CSV file arrived late. The team added an input-file availability check and an alert when the file is missing. No database connection issue was found.
