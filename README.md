@@ -1,6 +1,6 @@
 # RETRIVAL AGUMENTATION  GENERATIVE
 
-![RAG]('./RAG2.png')
+![RAG]('./Images/RAG2.png')
 
 ![Static Badge](https://img.shields.io/badge/LLM-%20black?style=flat&logo=ollama&logoColor=%23000000&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%20light%20blue?style=flat&logo=python&logoColor=%233776AB&labelColor=white&color=blue)
@@ -45,7 +45,7 @@ uv run python main.py
 
 
 
-![LANGCHAIN]('./langchain.jpg')
+![LANGCHAIN]('./Images/langchain.jpg')
 <details>
 <summary> Extracting PDFs Information with LLM and RAG using LangChain </summary>
 
