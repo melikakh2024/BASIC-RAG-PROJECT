@@ -1,6 +1,6 @@
 # RETRIVAL AGUMENTATION  GENERATIVE
 
-![RAG]('./Images/RAG2.png')
+![RAG]('./Images/RAG2.jpg')
 
 ![Static Badge](https://img.shields.io/badge/LLM-%20black?style=flat&logo=ollama&logoColor=%23000000&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%20light%20blue?style=flat&logo=python&logoColor=%233776AB&labelColor=white&color=blue)
